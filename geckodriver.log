@@ -1,0 +1,886 @@
+1679934869527	geckodriver	INFO	Listening on 127.0.0.1:55733
+1679934872562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "557 ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileRQdNNt"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679934872945	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679934872949	Marionette	INFO	Listening on port 55754
+WebDriver BiDi listening on ws://127.0.0.1:55734
+Read port: 55754
+1679934873077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileRQdNNt\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55734/devtools/browser/5267ffe9-1faf-4110-bc1e-ee2a0e4098ec
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+1679934914628	geckodriver	INFO	Listening on 127.0.0.1:57916
+1679934917667	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57917" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofile3a5GHD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679934917868	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679934917870	Marionette	INFO	Listening on port 57926
+Read port: 57926
+WebDriver BiDi listening on ws://127.0.0.1:57917
+1679934917937	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofile3a5GHD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57917/devtools/browser/1abc1275-b7e3-4981-a2a5-fa3044852f41
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+1679934952121	geckodriver	INFO	Listening on 127.0.0.1:57972
+1679934955148	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "579 ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileUfL5hF"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679934955330	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679934955333	Marionette	INFO	Listening on port 57981
+Read port: 57981
+WebDriver BiDi listening on ws://127.0.0.1:57973
+1679934955405	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileUfL5hF\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57973/devtools/browser/83c095d1-9650-4572-86f9-0ada2e450ba9
+1679934956996	geckodriver	INFO	Listening on 127.0.0.1:57998
+1679934960015	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57999" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofile5L1IGj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679934960214	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679934960217	Marionette	INFO	Listening on port 58007
+Read port: 58007
+WebDriver BiDi listening on ws://127.0.0.1:57999
+1679934960288	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofile5L1IGj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57999/devtools/browser/deb5a8f2-71e1-48f7-b25d-fad82083dde9
+1679935043837	geckodriver	INFO	Listening on 127.0.0.1:58078
+1679935046862	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58079" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofilevnc8bR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679935047056	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679935047058	Marionette	INFO	Listening on port 58086
+Read port: 58086
+WebDriver BiDi listening on ws://127.0.0.1:58079
+1679935047147	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofilevnc8bR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58079/devtools/browser/e57eda46-fde5-4c6d-b35a-dca932b91fa1
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+1679935054568	Marionette	INFO	Stopped listening on port 58086
+Dynamically enable window occlusion 1
+1679937066371	geckodriver	INFO	Listening on 127.0.0.1:57374
+1679937069412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57375" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileiyJe3O"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679937069802	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679937069805	Marionette	INFO	Listening on port 57386
+Read port: 57386
+WebDriver BiDi listening on ws://127.0.0.1:57375
+1679937069880	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileiyJe3O\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57375/devtools/browser/83968548-70b2-470e-b46a-172b1e317d4a
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679937128486	geckodriver	INFO	Listening on 127.0.0.1:57441
+1679937131516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57442" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofilesoIrpx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679937131699	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679937131702	Marionette	INFO	Listening on port 57450
+Read port: 57450
+WebDriver BiDi listening on ws://127.0.0.1:57442
+1679937131777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofilesoIrpx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57442/devtools/browser/1a4f3bc9-a574-462a-8c90-1f3f477c01c1
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679937166843	Marionette	INFO	Stopped listening on port 57450
+Dynamically enable window occlusion 1
+1679937260624	geckodriver	INFO	Listening on 127.0.0.1:57517
+1679937263660	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57518" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileNURW0Y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679937263848	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679937263850	Marionette	INFO	Listening on port 57526
+Read port: 57526
+WebDriver BiDi listening on ws://127.0.0.1:57518
+1679937263915	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileNURW0Y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57518/devtools/browser/8e6e7598-e949-4ebe-976b-100e526395cd
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679937319141	geckodriver	INFO	Listening on 127.0.0.1:57573
+1679937322184	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57574" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileCAlIj6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679937322371	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679937322374	Marionette	INFO	Listening on port 57582
+Read port: 57582
+WebDriver BiDi listening on ws://127.0.0.1:57574
+1679937322444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileCAlIj6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57574/devtools/browser/c6384fd5-9a07-4d08-bc06-4d5b7f7ceffa
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679937362408	geckodriver	INFO	Listening on 127.0.0.1:57645
+1679937365433	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57646" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileJEqWnW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679937365618	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679937365621	Marionette	INFO	Listening on port 57654
+Read port: 57654
+WebDriver BiDi listening on ws://127.0.0.1:57646
+1679937365686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileJEqWnW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57646/devtools/browser/bd1ba1f7-ca93-42c9-b862-debfe677a66c
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679937398015	geckodriver	INFO	Listening on 127.0.0.1:57703
+1679937401048	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57704" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileBwB1w5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679937401230	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679937401232	Marionette	INFO	Listening on port 57711
+WebDriver BiDi listening on ws://127.0.0.1:57704
+Read port: 57711
+1679937401307	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileBwB1w5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57704/devtools/browser/1a6776e1-efb3-44a3-81ad-8aa3983079a5
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679937423376	geckodriver	INFO	Listening on 127.0.0.1:57759
+1679937426409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57760" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofile0tlnDr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679937426591	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679937426594	Marionette	INFO	Listening on port 57768
+Read port: 57768
+WebDriver BiDi listening on ws://127.0.0.1:57760
+1679937426670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofile0tlnDr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57760/devtools/browser/8e956dd3-5c64-4061-bb80-de183a3769ee
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679937471002	geckodriver	INFO	Listening on 127.0.0.1:57841
+1679937474038	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57842" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofile15hruH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679937474232	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679937474235	Marionette	INFO	Listening on port 57849
+Read port: 57849
+WebDriver BiDi listening on ws://127.0.0.1:57842
+1679937474316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofile15hruH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57842/devtools/browser/79937884-e483-458f-961b-306852f076be
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679937718314	geckodriver	INFO	Listening on 127.0.0.1:57934
+1679937721338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57935" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileirPp9Y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679937721658	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679937721661	Marionette	INFO	Listening on port 57943
+Read port: 57943
+WebDriver BiDi listening on ws://127.0.0.1:57935
+1679937721732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileirPp9Y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57935/devtools/browser/a36d2ea5-8953-4183-8b97-1e67e3930cc6
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679937866361	geckodriver	INFO	Listening on 127.0.0.1:58002
+1679937869397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58003" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofiletDm6oE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679937869611	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679937869614	Marionette	INFO	Listening on port 58010
+Read port: 58010
+WebDriver BiDi listening on ws://127.0.0.1:58003
+1679937869683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofiletDm6oE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58003/devtools/browser/99f57dc9-0f85-42be-b67b-8af87286a02f
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679937937568	geckodriver	INFO	Listening on 127.0.0.1:58061
+1679937940593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58062" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileKVZ1k6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679937940780	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679937940783	Marionette	INFO	Listening on port 58070
+Read port: 58070
+WebDriver BiDi listening on ws://127.0.0.1:58062
+1679937940853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileKVZ1k6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58062/devtools/browser/77b4c198-6210-461b-97fd-7dae4fa12a69
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+1679938012017	Marionette	INFO	Stopped listening on port 58070
+Dynamically enable window occlusion 1
+1679938039867	geckodriver	INFO	Listening on 127.0.0.1:58150
+1679938042898	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58151" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofilecPJFnR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679938043105	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679938043108	Marionette	INFO	Listening on port 58158
+Read port: 58158
+WebDriver BiDi listening on ws://127.0.0.1:58151
+1679938043176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofilecPJFnR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58151/devtools/browser/790ae487-d3e1-4290-8423-ae4f1df8395a
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679938057886	Marionette	INFO	Stopped listening on port 58158
+Dynamically enable window occlusion 1
+1679938093965	geckodriver	INFO	Listening on 127.0.0.1:58234
+1679938097000	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58235" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileqYThiA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679938097194	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679938097197	Marionette	INFO	Listening on port 58243
+Read port: 58243
+WebDriver BiDi listening on ws://127.0.0.1:58235
+1679938097266	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileqYThiA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58235/devtools/browser/f9eaba1f-236b-48a6-a380-f745aa3573d7
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679938114056	Marionette	INFO	Stopped listening on port 58243
+Dynamically enable window occlusion 1
+1679938396183	geckodriver	INFO	Listening on 127.0.0.1:58323
+1679938399203	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58324" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofilewDoEym"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679938399545	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679938399548	Marionette	INFO	Listening on port 58331
+WebDriver BiDi listening on ws://127.0.0.1:58324
+Read port: 58331
+1679938399732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofilewDoEym\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58324/devtools/browser/2cb31062-5529-4c70-8bcc-94e7c85e3ddf
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679938550588	geckodriver	INFO	Listening on 127.0.0.1:58396
+1679938553605	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58397" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileXXXGVZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679938553798	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679938553801	Marionette	INFO	Listening on port 58405
+Read port: 58405
+WebDriver BiDi listening on ws://127.0.0.1:58397
+1679938553871	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileXXXGVZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58397/devtools/browser/e35aae49-6151-467a-8f00-6e4a8c27aac7
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679938678780	geckodriver	INFO	Listening on 127.0.0.1:58464
+1679938681801	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58465" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofilewYqcBI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679938681989	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679938681992	Marionette	INFO	Listening on port 58472
+Read port: 58472
+WebDriver BiDi listening on ws://127.0.0.1:58465
+1679938682061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofilewYqcBI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58465/devtools/browser/ad3d2bbb-2a7c-4854-921f-68149273b1ea
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 237))
+1679938736471	geckodriver	INFO	Listening on 127.0.0.1:58525
+1679938739482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58526" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileJYxlA0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679938739681	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679938739684	Marionette	INFO	Listening on port 58534
+Read port: 58534
+WebDriver BiDi listening on ws://127.0.0.1:58526
+1679938739751	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileJYxlA0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58526/devtools/browser/f55c9328-3829-4919-9aff-1add60946176
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+1679938990491	geckodriver	INFO	Listening on 127.0.0.1:58627
+1679938993516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58628" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileuhKvIW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679938993801	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679938993805	Marionette	INFO	Listening on port 58640
+Read port: 58640
+WebDriver BiDi listening on ws://127.0.0.1:58628
+1679938993883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileuhKvIW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58628/devtools/browser/0fddbd3b-fad0-4285-a4b4-87834acf9a5e
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679939002852	Marionette	INFO	Stopped listening on port 58640
+Dynamically enable window occlusion 1
+1679939031982	geckodriver	INFO	Listening on 127.0.0.1:58696
+1679939035000	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58697" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofilej8TpPz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679939035185	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679939035188	Marionette	INFO	Listening on port 58705
+Read port: 58705
+WebDriver BiDi listening on ws://127.0.0.1:58697
+1679939035257	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofilej8TpPz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58697/devtools/browser/d6b37a58-2ca9-4b31-8f84-c87afcc631cf
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679939051368	Marionette	INFO	Stopped listening on port 58705
+Dynamically enable window occlusion 1
+1679939084414	geckodriver	INFO	Listening on 127.0.0.1:58769
+1679939087414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58770" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileqQvDO9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679939087603	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679939087606	Marionette	INFO	Listening on port 58777
+Read port: 58777
+WebDriver BiDi listening on ws://127.0.0.1:58770
+1679939087677	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileqQvDO9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58770/devtools/browser/9b8ed8b5-e247-41c1-a491-9e86e499759f
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679939220478	geckodriver	INFO	Listening on 127.0.0.1:58834
+1679939223494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58835" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileLNrF0V"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679939223698	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679939223700	Marionette	INFO	Listening on port 58843
+Read port: 58843
+WebDriver BiDi listening on ws://127.0.0.1:58835
+1679939223768	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileLNrF0V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58835/devtools/browser/e0999641-e43c-42ba-967e-55b1435c7cf7
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679939285451	geckodriver	INFO	Listening on 127.0.0.1:58909
+1679939288456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58910" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileKwvsZS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679939288637	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679939288639	Marionette	INFO	Listening on port 58918
+Read port: 58918
+WebDriver BiDi listening on ws://127.0.0.1:58910
+1679939288706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileKwvsZS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58910/devtools/browser/3c63956b-db58-4071-b229-7d23846a4de4
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679939390132	geckodriver	INFO	Listening on 127.0.0.1:58979
+1679939393147	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58980" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileNcHKaB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679939393502	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679939393506	Marionette	INFO	Listening on port 58988
+WebDriver BiDi listening on ws://127.0.0.1:58980
+Read port: 58988
+1679939393672	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileNcHKaB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58980/devtools/browser/2279d209-4092-4d85-9750-74f2b46adf1a
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679939503322	geckodriver	INFO	Listening on 127.0.0.1:59049
+1679939506338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59050" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileYu8h1r"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679939506548	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679939506551	Marionette	INFO	Listening on port 59059
+Read port: 59059
+WebDriver BiDi listening on ws://127.0.0.1:59050
+1679939506628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileYu8h1r\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59050/devtools/browser/b5d2c1b7-c4a0-497d-8671-da0be64fdd63
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679939534610	Marionette	INFO	Stopped listening on port 59059
+Dynamically enable window occlusion 1
+1679939552542	geckodriver	INFO	Listening on 127.0.0.1:59107
+1679939555573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59108" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileWmOJGI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679939555756	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679939555759	Marionette	INFO	Listening on port 59115
+Read port: 59115
+WebDriver BiDi listening on ws://127.0.0.1:59108
+1679939555824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileWmOJGI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59108/devtools/browser/0a0abdce-57ed-47c9-b75e-0c4d72e09c4d
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679939567904	Marionette	INFO	Stopped listening on port 59115
+Dynamically enable window occlusion 1
+1679939586916	geckodriver	INFO	Listening on 127.0.0.1:59170
+1679939589941	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59171" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileFy0vdl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679939590126	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679939590128	Marionette	INFO	Listening on port 59179
+Read port: 59179
+WebDriver BiDi listening on ws://127.0.0.1:59171
+1679939590194	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileFy0vdl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59171/devtools/browser/3ced4cea-2252-4e3e-944f-d6e2979e9b07
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679939663277	geckodriver	INFO	Listening on 127.0.0.1:59234
+1679939666291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59235" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileF4PGIk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679939666562	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679939666565	Marionette	INFO	Listening on port 59246
+WebDriver BiDi listening on ws://127.0.0.1:59235
+Read port: 59246
+1679939666736	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileF4PGIk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59235/devtools/browser/6dbaf68c-ccc7-4ceb-95d5-d3121bcff14a
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679939727601	geckodriver	INFO	Listening on 127.0.0.1:59315
+1679939730614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59316" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileBQWOge"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679939730806	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679939730810	Marionette	INFO	Listening on port 59327
+Read port: 59327
+WebDriver BiDi listening on ws://127.0.0.1:59316
+1679939730876	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileBQWOge\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59316/devtools/browser/0a296896-9f07-4d1c-b554-01e629b90a8a
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+1679939802549	geckodriver	INFO	Listening on 127.0.0.1:59397
+1679939805529	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59398" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofile9leZsk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679939805718	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679939805721	Marionette	INFO	Listening on port 59406
+Read port: 59406
+WebDriver BiDi listening on ws://127.0.0.1:59398
+1679939805793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofile9leZsk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59398/devtools/browser/5b819f77-33bc-4fb7-871c-2180a3aeb237
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+1679940054261	geckodriver	INFO	Listening on 127.0.0.1:57557
+1679940057250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57558" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofilevGUrFr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679940057443	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679940057445	Marionette	INFO	Listening on port 57568
+Read port: 57568
+WebDriver BiDi listening on ws://127.0.0.1:57558
+1679940057510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofilevGUrFr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57558/devtools/browser/b7f41595-b0c2-498c-97d0-84ec46ae50f2
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679940130409	geckodriver	INFO	Listening on 127.0.0.1:57629
+1679940133392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57630" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofilerz9PdD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679940133583	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679940133586	Marionette	INFO	Listening on port 57637
+Read port: 57637
+WebDriver BiDi listening on ws://127.0.0.1:57630
+1679940133655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofilerz9PdD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57630/devtools/browser/d09b60e2-34f8-475a-ac77-89dc76ab11fa
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+1679940218099	geckodriver	INFO	Listening on 127.0.0.1:57691
+1679940221080	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57692" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofile3imYsT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679940221281	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679940221285	Marionette	INFO	Listening on port 57700
+Read port: 57700
+WebDriver BiDi listening on ws://127.0.0.1:57692
+1679940221353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofile3imYsT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57692/devtools/browser/68e89bdf-ee42-409a-a761-733f6d75e7c7
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+1679940491177	geckodriver	INFO	Listening on 127.0.0.1:57774
+1679940494158	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57775" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileMzJoVJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679940494488	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679940494491	Marionette	INFO	Listening on port 57782
+WebDriver BiDi listening on ws://127.0.0.1:57775
+Read port: 57782
+1679940494662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileMzJoVJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57775/devtools/browser/43d1221d-d939-416c-b48c-f6d36339af57
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+JavaScript error: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 146: TypeError: state.lastResponse.Preview is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 146: TypeError: state.lastResponse.Preview is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+JavaScript error: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 146: TypeError: state.lastResponse.Preview is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+1679942961145	Marionette	INFO	Stopped listening on port 57782
+Dynamically enable window occlusion 1
+1679943103712	geckodriver	INFO	Listening on 127.0.0.1:58502
+1679943106745	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58503" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileXCiLfZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679943107143	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679943107146	Marionette	INFO	Listening on port 58510
+Read port: 58510
+WebDriver BiDi listening on ws://127.0.0.1:58503
+1679943107224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileXCiLfZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58503/devtools/browser/052cb1d1-cff6-4abe-a4a0-9d5dbfcc991f
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679943114370	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1679943143246	geckodriver	INFO	Listening on 127.0.0.1:58554
+1679943146276	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58555" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileA5Rd9q"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679943146474	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679943146476	Marionette	INFO	Listening on port 58564
+Read port: 58564
+WebDriver BiDi listening on ws://127.0.0.1:58555
+1679943146551	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SPENCE~1\\AppData\\Local\\Temp\\rust_mozprofileA5Rd9q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58555/devtools/browser/79d38e85-0e36-4998-9838-0176a92319cb
+JavaScript warning: https://discomap.eea.europa.eu/App/AirQualityStatistics/src/js/connector.js, line 142: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discomap.eea.europa.eu."
+1679945484912	Marionette	INFO	Stopped listening on port 58564
+Dynamically enable window occlusion 1
